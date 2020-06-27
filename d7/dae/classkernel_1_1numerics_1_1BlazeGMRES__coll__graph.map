@@ -1,0 +1,5 @@
+<map id="kernel::numerics::BlazeGMRES" name="kernel::numerics::BlazeGMRES">
+<area shape="rect" id="node2" href="$d7/dbb/classkernel_1_1numerics_1_1BlazeKrylovSolverImplBase.html" title="kernel::numerics::BlazeKrylov\lSolverImplBase" alt="" coords="303,57,505,98"/>
+<area shape="rect" id="node4" href="$db/d11/structkernel_1_1numerics_1_1KrylovSolverData.html" title="kernel::numerics::Krylov\lSolverData" alt="" coords="10,57,178,98"/>
+<area shape="rect" id="node5" href="$dd/d43/classkernel_1_1IterativeAlgorithmController.html" title="Controller for iterative algorithms. " alt="" coords="5,122,183,163"/>
+</map>

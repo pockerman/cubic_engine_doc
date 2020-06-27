@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['l2_5fnorm',['L2_norm',['../db/df2/classkernel_1_1GeomPoint.html#a523926383aa0b81fec847d05ff5035b9',1,'kernel::GeomPoint']]],
+  ['lassofunction',['LassoFunction',['../d7/db7/classcengine_1_1LassoFunction.html#a30566079476d4ab7ba1c18de30866fc5',1,'cengine::LassoFunction']]],
+  ['length',['length',['../d0/dc7/classcengine_1_1grids_1_1LineSegment.html#a7dd3e06c1199c2b7266a3617ccb60787',1,'cengine::grids::LineSegment']]],
+  ['linearlogisticregression',['LinearLogisticRegression',['../dd/d48/classmllib_1_1LinearLogisticRegression.html#ac180618136d1d665eac921a581c78ab0',1,'mllib::LinearLogisticRegression']]],
+  ['linearregression',['LinearRegression',['../d3/d85/classmllib_1_1LinearRegression.html#ac3b9954104e29f86621b89290781ffff',1,'mllib::LinearRegression']]],
+  ['linemesh',['LineMesh',['../da/d88/classkernel_1_1numerics_1_1LineMesh.html#ab156bbc8564729df5c524f277e3d1a75',1,'kernel::numerics::LineMesh']]],
+  ['linesegment',['LineSegment',['../d0/dc7/classcengine_1_1grids_1_1LineSegment.html#ad8aee595c51be39c1198249953b0ced5',1,'cengine::grids::LineSegment::LineSegment(uint_t id, const w_point_t &amp;v1, const w_point_t &amp;v2, const segment_data_t &amp;data)'],['../d0/dc7/classcengine_1_1grids_1_1LineSegment.html#ac2b74b3dcf79ee6a84b80966e22a593c',1,'cengine::grids::LineSegment::LineSegment(uint_t id, const w_point_t &amp;v1, const w_point_t &amp;v2)']]],
+  ['load_5fcar_5fplant_5fdataset',['load_car_plant_dataset',['../d7/da2/namespacekernel.html#ad0a396e2691d8f4a33529c63bac4204d',1,'kernel']]],
+  ['load_5fcar_5fplant_5fdataset_5fwith_5fpartitions',['load_car_plant_dataset_with_partitions',['../d7/da2/namespacekernel.html#a63ef0bb59702c6cc12e1e6fca3c4a4ce',1,'kernel']]],
+  ['load_5fcar_5fplant_5fmulti_5fdataset',['load_car_plant_multi_dataset',['../d7/da2/namespacekernel.html#a005421e618c1a7664f7e4413e414db22',1,'kernel']]],
+  ['load_5fcar_5fplant_5fmulti_5fdataset_5fwith_5fpartitions',['load_car_plant_multi_dataset_with_partitions',['../d7/da2/namespacekernel.html#abac8ccfff950895257725c89ddf1eeb4',1,'kernel']]],
+  ['load_5firis_5fdata_5fset',['load_iris_data_set',['../d7/da2/namespacekernel.html#a4fd702d30e1e06d513d6f65d53832e11',1,'kernel']]],
+  ['load_5firis_5fdata_5fset_5fwith_5fpartitions',['load_iris_data_set_with_partitions',['../d7/da2/namespacekernel.html#ab282b9f92996c986b3b54423c5a09dfd',1,'kernel']]],
+  ['load_5fkmeans_5ftest_5fdata',['load_kmeans_test_data',['../d7/da2/namespacekernel.html#a74fe70b1c59710a098ad613c2e2933ff',1,'kernel']]],
+  ['load_5freduced_5firis_5fdata_5fset',['load_reduced_iris_data_set',['../d7/da2/namespacekernel.html#a7191544c13e82574a6114d6da88b132b',1,'kernel']]],
+  ['load_5freduced_5firis_5fdata_5fset_5fwith_5fpartitions',['load_reduced_iris_data_set_with_partitions',['../d7/da2/namespacekernel.html#a0814b6903e2f5c8ff57b7806a3bfa1a4',1,'kernel']]],
+  ['load_5fx_5fy_5fsinuisoid_5fdata_5fset',['load_x_y_sinuisoid_data_set',['../d7/da2/namespacekernel.html#acbaa24ad7a81f3ea0f74d703088a40cb',1,'kernel']]],
+  ['load_5fx_5fy_5fsinuisoid_5fdata_5fset_5fwith_5fpartitions',['load_x_y_sinuisoid_data_set_with_partitions',['../d7/da2/namespacekernel.html#ab6c320e55106ac3b9b6a89caf398e6a9',1,'kernel']]],
+  ['local_5fjoin',['local_join',['../db/d5a/classkernel_1_1IdentityReduce.html#a307540730f7c22dda12d974799a8ca30',1,'kernel::IdentityReduce::local_join()'],['../de/d38/classkernel_1_1Sum.html#a54e1de64a42f7e149092af5ebe4d69f6',1,'kernel::Sum::local_join()']]],
+  ['lockablequeue',['LockableQueue',['../d9/d58/classkernel_1_1LockableQueue.html#a3549f6c2d45473f1d6386137a7acdb88',1,'kernel::LockableQueue']]],
+  ['logisticregression',['LogisticRegression',['../d2/d4a/classcengine_1_1LogisticRegression.html#a7ce8114e38a073bc0eeb59808cd2d91a',1,'cengine::LogisticRegression::LogisticRegression()'],['../d2/d4a/classcengine_1_1LogisticRegression.html#a76ac39650ebd8531b24e128992f4d792',1,'cengine::LogisticRegression::LogisticRegression(const std::vector&lt; real_t &gt; &amp;coeffs)']]],
+  ['lower_5fdiagonal_5fsize',['lower_diagonal_size',['../d3/d06/classkernel_1_1numerics_1_1RelaxedFVMatrixAssemblyPolicy.html#a20a75e19bfbf50161df8781b24208d49',1,'kernel::numerics::RelaxedFVMatrixAssemblyPolicy']]],
+  ['lpmetric',['LpMetric',['../da/d71/classkernel_1_1LpMetric.html#af96bb5aaf5bcfc3ff429603539be567f',1,'kernel::LpMetric']]]
+];

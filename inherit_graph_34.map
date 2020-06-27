@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/df3/structkernel_1_1AlgInfo.html" title="A small struct that holds basic information about the performance of an algorithm. " alt="" coords="5,56,116,83"/>
+<area shape="rect" id="node2" href="$d9/db9/structcengine_1_1GDInfo.html" title="cengine::GDInfo" alt="" coords="187,5,309,32"/>
+<area shape="rect" id="node3" href="$d1/dea/structcengine_1_1KMeansInfo.html" title="Small struct that wraps information about K&#45;means to be passed to the client code upon completion of ..." alt="" coords="171,56,325,83"/>
+<area shape="rect" id="node4" href="$d0/d6e/structkernel_1_1numerics_1_1KrylovSolverResult.html" title="kernel::numerics::Krylov\lSolverResult" alt="" coords="164,107,332,149"/>
+</map>

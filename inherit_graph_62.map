@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/def/classkernel_1_1numerics_1_1DoFObject.html" title="A DofObject holds DoF objects. " alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node2" href="$d1/d9d/classkernel_1_1numerics_1_1FaceElement_3_01spacedim_00_010_01_4.html" title="kernel::numerics::FaceElement\l\&lt; spacedim, 0 \&gt;" alt="" coords="248,27,459,69"/>
+<area shape="rect" id="node3" href="$db/df2/classkernel_1_1GeomPoint.html" title="kernel::GeomPoint\&lt;\l spacedim \&gt;" alt="" coords="30,57,175,98"/>
+</map>

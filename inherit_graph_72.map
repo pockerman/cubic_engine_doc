@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d1/d95/structkernel_1_1kernel__detail_1_1generic__line__base.html" title="kernel::kernel_detail\l::generic_line_base\&lt;\l NodeTp \&gt;" alt="" coords="5,31,156,87"/>
+<area shape="rect" id="node2" href="$df/d35/classkernel_1_1GenericLine.html" title="kernel::GenericLine\l\&lt; NodeTp, DataTp \&gt;" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$d1/dd8/classkernel_1_1GenericLine_3_01NodeTp_00_01void_01_4.html" title="Partial specialization for lines having no Data. " alt="" coords="207,71,351,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="kernel::detail::task_description_base&lt; HypothesisFn, DataSetType, LabelsType, ResultType &gt;" name="kernel::detail::task_description_base&lt; HypothesisFn, DataSetType, LabelsType, ResultType &gt;">
+<area shape="rect" id="node2" href="$db/d61/classkernel_1_1SimpleTaskBase.html" title="kernel::SimpleTaskBase\l\&lt; ResultType \&gt;" alt="" coords="29,155,201,196"/>
+<area shape="rect" id="node3" href="$db/d0f/classkernel_1_1TaskBase.html" title="Base class for task execution. A task cannot be copied not copy assigned. It can only be moved..." alt="" coords="49,80,180,107"/>
+</map>

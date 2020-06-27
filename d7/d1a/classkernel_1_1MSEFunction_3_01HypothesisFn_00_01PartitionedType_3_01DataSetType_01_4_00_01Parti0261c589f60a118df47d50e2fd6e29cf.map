@@ -1,0 +1,4 @@
+<map id="kernel::MSEFunction&lt; HypothesisFn, PartitionedType&lt; DataSetType &gt;, PartitionedType&lt; LabelsType &gt;, RegularizerFn &gt;" name="kernel::MSEFunction&lt; HypothesisFn, PartitionedType&lt; DataSetType &gt;, PartitionedType&lt; LabelsType &gt;, RegularizerFn &gt;">
+<area shape="rect" id="node2" href="$d5/d45/classkernel_1_1detail_1_1mse__detail.html" title="kernel::detail::mse\l_detail\&lt; HypothesisFn,\l DataSetType, LabelsType,\l RegularizerFn \&gt;" alt="" coords="281,5,473,76"/>
+<area shape="rect" id="node3" href="$de/df6/classkernel_1_1FunctionBase.html" title="kernel::FunctionBase\l\&lt; ResultHolder\&lt; real\l_t \&gt;, DataSetType, LabelsType \&gt;" alt="" coords="5,13,233,69"/>
+</map>

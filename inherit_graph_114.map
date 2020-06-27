@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d2/dda/classkernel_1_1numerics_1_1FaceElement.html" title="kernel::numerics::FaceElement\l\&lt; dim, 0 \&gt;" alt="" coords="5,39,216,80"/>
+<area shape="rect" id="node2" href="$d4/d14/classkernel_1_1numerics_1_1Node.html" title="Wraps the notion of a node. A node is simply a point in dim&#45;space that can hold dofs. " alt="" coords="264,5,427,47"/>
+<area shape="rect" id="node3" href="$d4/d14/classkernel_1_1numerics_1_1Node.html" title="kernel::numerics::Node\l\&lt; spacedim \&gt;" alt="" coords="264,71,427,112"/>
+</map>

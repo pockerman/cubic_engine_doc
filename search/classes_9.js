@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['kalmanfilter',['KalmanFilter',['../df/dbf/classcengine_1_1KalmanFilter.html',1,'cengine']]],
+  ['kernel_5fthread',['kernel_thread',['../db/dad/classkernel_1_1detail_1_1kernel__thread.html',1,'kernel::detail']]],
+  ['kernelconsts',['KernelConsts',['../db/d4b/classkernel_1_1KernelConsts.html',1,'kernel']]],
+  ['kmeans',['KMeans',['../dd/d58/classparml_1_1KMeans.html',1,'parml::KMeans&lt; t, DataPoint &gt;'],['../d8/daa/classcengine_1_1KMeans.html',1,'cengine::KMeans&lt; ClusterType &gt;']]],
+  ['kmeans_3c_20cput_5fc11_2c_20datainput_2c_20centroidtype_20_3e',['KMeans&lt; cput_c11, DataInput, CentroidType &gt;',['../d3/dbf/classparml_1_1KMeans_3_01cput__c11_00_01DataInput_00_01CentroidType_01_4.html',1,'parml']]],
+  ['kmeans_3c_20parframepp_3a_3aplatform_5ftype_3a_3atype_3a_3acput_5fc11_2c_20datapoint_20_3e',['KMeans&lt; parframepp::platform_type::Type::CPUT_C11, DataPoint &gt;',['../d2/dec/classparml_1_1KMeans_3_01parframepp_1_1platform__type_1_1Type_1_1CPUT__C11_00_01DataPoint_01_4.html',1,'parml']]],
+  ['kmeans_3c_20serial_2c_20datainput_2c_20centroidtype_20_3e',['KMeans&lt; serial, DataInput, CentroidType &gt;',['../d7/d67/classparml_1_1KMeans_3_01serial_00_01DataInput_00_01CentroidType_01_4.html',1,'parml']]],
+  ['kmeans_5fbase',['kmeans_base',['../d8/dc6/classparml_1_1kmeans__base.html',1,'parml']]],
+  ['kmeanscontrol',['KMeansControl',['../d7/db5/structparml_1_1KMeansControl.html',1,'parml::KMeansControl'],['../d6/d3f/structcengine_1_1KMeansControl.html',1,'cengine::KMeansControl']]],
+  ['kmeansinfo',['KMeansInfo',['../d1/dea/structcengine_1_1KMeansInfo.html',1,'cengine']]],
+  ['knn',['Knn',['../dc/dfa/classcengine_1_1Knn.html',1,'cengine']]],
+  ['knn_5fpolicy_5fbase',['knn_policy_base',['../d2/ddd/classcengine_1_1knn__policy__base.html',1,'cengine']]],
+  ['knn_5fpolicy_5fbase_3c_20false_20_3e',['knn_policy_base&lt; false &gt;',['../d2/ddd/classcengine_1_1knn__policy__base.html',1,'cengine']]],
+  ['knn_5fpolicy_5fbase_3c_20true_20_3e',['knn_policy_base&lt; true &gt;',['../d2/ddd/classcengine_1_1knn__policy__base.html',1,'cengine']]],
+  ['knn_5fpolicy_5fbase_5fdata_5fhandler',['knn_policy_base_data_handler',['../da/dbd/structcengine_1_1knn__policy__base__data__handler.html',1,'cengine']]],
+  ['knn_5fpolicy_5fbase_5fdata_5fhandler_3c_20false_20_3e',['knn_policy_base_data_handler&lt; false &gt;',['../d9/d69/structcengine_1_1knn__policy__base__data__handler_3_01false_01_4.html',1,'cengine']]],
+  ['knn_5fpolicy_5fbase_5fdata_5fhandler_3c_20true_20_3e',['knn_policy_base_data_handler&lt; true &gt;',['../d5/d3f/structcengine_1_1knn__policy__base__data__handler_3_01true_01_4.html',1,'cengine']]],
+  ['knnavgregressionpolicy',['KnnAvgRegressionPolicy',['../de/d03/classcengine_1_1KnnAvgRegressionPolicy.html',1,'cengine']]],
+  ['knnclassificationpolicy',['KnnClassificationPolicy',['../d2/d37/classcengine_1_1KnnClassificationPolicy.html',1,'cengine']]],
+  ['knncontrol',['KnnControl',['../d3/df8/structcengine_1_1KnnControl.html',1,'cengine']]],
+  ['knninfo',['KnnInfo',['../dc/dc9/structcengine_1_1KnnInfo.html',1,'cengine']]],
+  ['krylovsolverdata',['KrylovSolverData',['../db/d11/structkernel_1_1numerics_1_1KrylovSolverData.html',1,'kernel::numerics']]],
+  ['krylovsolverresult',['KrylovSolverResult',['../d0/d6e/structkernel_1_1numerics_1_1KrylovSolverResult.html',1,'kernel::numerics']]]
+];

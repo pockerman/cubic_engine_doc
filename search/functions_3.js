@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['data_5fset_5fhas_5fclass',['data_set_has_class',['../d0/d14/classparml_1_1naive__bayes__serial.html#ade685da71e71f643ef739c5571e56f1b',1,'parml::naive_bayes_serial']]],
+  ['deactivate',['deactivate',['../d0/dc7/classcengine_1_1grids_1_1LineSegment.html#a0dc1f1e7b7168bc05c832a60e925ee00',1,'cengine::grids::LineSegment']]],
+  ['default_5fcomment_5fmark',['default_comment_mark',['../d6/dea/classkernel_1_1FileWriterBase.html#a89b28a4507597b3c30e4dcf4eb8682b2',1,'kernel::FileWriterBase']]],
+  ['default_5fdelimeter',['default_delimeter',['../d7/de8/classkernel_1_1CSVFileReader.html#a2a679f71d1ac9991eae2f7c14dee4b30',1,'kernel::CSVFileReader']]],
+  ['default_5fdelimiter',['default_delimiter',['../d0/d27/classkernel_1_1CSVWriter.html#a4b0e9cdf561f4dec87cbd2fdf31c5c44',1,'kernel::CSVWriter']]],
+  ['deg_5fto_5frad',['deg_to_rad',['../dd/d75/classkernel_1_1AngleCalculator.html#a3bc6b67f3b6a7b57d43787a546dc0ed6',1,'kernel::AngleCalculator']]],
+  ['degrees_5fto_5frad',['degrees_to_rad',['../dc/d26/classkernel_1_1UnitConverter.html#ac29c1e50ce206bce90785edaa5dc05eb',1,'kernel::UnitConverter']]],
+  ['detect_5fconvergence',['detect_convergence',['../d8/dc6/classparml_1_1kmeans__base.html#ae7adc25d9d7e6f2cd140e1a7778a373a',1,'parml::kmeans_base']]],
+  ['detect_5fempty_5fcluster',['detect_empty_cluster',['../d8/dc6/classparml_1_1kmeans__base.html#ab51702c5d78c08ee74230d329eb0e90c',1,'parml::kmeans_base']]],
+  ['diagonal_5fsize',['diagonal_size',['../d3/d06/classkernel_1_1numerics_1_1RelaxedFVMatrixAssemblyPolicy.html#a84a74004db14dc3745d84d8f0a292627',1,'kernel::numerics::RelaxedFVMatrixAssemblyPolicy']]],
+  ['diagonal_5fval',['diagonal_val',['../d3/d06/classkernel_1_1numerics_1_1RelaxedFVMatrixAssemblyPolicy.html#ae67aa7ee4746ad31af82e1e21007a4b0',1,'kernel::numerics::RelaxedFVMatrixAssemblyPolicy']]],
+  ['diagonal_5fval_5fwith_5fbc',['diagonal_val_with_bc',['../d3/d06/classkernel_1_1numerics_1_1RelaxedFVMatrixAssemblyPolicy.html#af9dcef0289139da50f67ca89f4615deb',1,'kernel::numerics::RelaxedFVMatrixAssemblyPolicy']]],
+  ['diffdrivedynamics',['DiffDriveDynamics',['../dc/d80/classkernel_1_1dynamics_1_1DiffDriveDynamics.html#acf1eeb705ec980df172bb97fe8f50e58',1,'kernel::dynamics::DiffDriveDynamics::DiffDriveDynamics()'],['../dc/d80/classkernel_1_1dynamics_1_1DiffDriveDynamics.html#aa912f79af21dcc34e0a68a73195e22ac',1,'kernel::dynamics::DiffDriveDynamics::DiffDriveDynamics(state_t &amp;&amp;state)']]],
+  ['diffdrivevehicle',['DiffDriveVehicle',['../de/dd5/classkernel_1_1DiffDriveVehicle.html#a922fc344be3f858740a2ebefd16717cc',1,'kernel::DiffDriveVehicle']]],
+  ['distance',['distance',['../db/df2/classkernel_1_1GeomPoint.html#aa1eb9cfa3c4f59448bb1bfb3b143e5c9',1,'kernel::GeomPoint']]],
+  ['distribute_5fdofs',['distribute_dofs',['../d8/df5/classkernel_1_1numerics_1_1FVDoFManager.html#a2c57ec884d62def5fc41d7feb44a093b',1,'kernel::numerics::FVDoFManager::distribute_dofs()'],['../d2/dd2/classkernel_1_1numerics_1_1ScalarFVSystem.html#ae02c7e3a7db3096e2d352a11a83d211b',1,'kernel::numerics::ScalarFVSystem::distribute_dofs()'],['../d8/d94/classkernel_1_1numerics_1_1FVScalarTimedSystem.html#a56d1308bde7781022fb39005b8676377',1,'kernel::numerics::FVScalarTimedSystem::distribute_dofs()'],['../dc/d8b/classkernel_1_1numerics_1_1SteadyStateNSSystem.html#a575f76c6831932329f3ea0eee8984763',1,'kernel::numerics::SteadyStateNSSystem::distribute_dofs()']]],
+  ['do_5fdistribute_5fdofs',['do_distribute_dofs',['../d8/df5/classkernel_1_1numerics_1_1FVDoFManager.html#a1683eb7a1bdc7071b18fa2b81b490f26',1,'kernel::numerics::FVDoFManager']]],
+  ['dofobject',['DoFObject',['../d0/def/classkernel_1_1numerics_1_1DoFObject.html#a636331c8fce4da667f58a9328040aa99',1,'kernel::numerics::DoFObject']]],
+  ['dot',['dot',['../db/df2/classkernel_1_1GeomPoint.html#a1f8da41f330cd9417255ca7e11b7b2d1',1,'kernel::GeomPoint']]],
+  ['dot_5fproduct',['dot_product',['../d1/d3b/namespacecengine.html#a909549f887c131521b66778cd1641cf5',1,'cengine']]],
+  ['dotproduct',['DotProduct',['../d6/d42/classkernel_1_1DotProduct.html#ae8e11d9066f184d159cb748fc2732a88',1,'kernel::DotProduct::DotProduct()'],['../d6/d42/classkernel_1_1DotProduct.html#af07c3cadb94ce7c90ccd7f37809b3446',1,'kernel::DotProduct::DotProduct(const VectorTp &amp;v1, const VectorTp &amp;v2)'],['../d6/d42/classkernel_1_1DotProduct.html#af63fd3ba91cf64b15362383c1d7c6fe5',1,'kernel::DotProduct::DotProduct(const VectorTp &amp;v1)'],['../d6/d42/classkernel_1_1DotProduct.html#a5fb47d8b8ec07ed20c4e3de4c616e879',1,'kernel::DotProduct::DotProduct(const ResultHolder&lt; VectorTp &gt; &amp;v1, const ResultHolder&lt; VectorTp &gt; &amp;v2)'],['../d6/d42/classkernel_1_1DotProduct.html#acd857944f01c125b7581a950ea1c6d02',1,'kernel::DotProduct::DotProduct(const ResultHolder&lt; VectorTp &gt; &amp;v1)']]],
+  ['dummy_5fstring',['dummy_string',['../db/d4b/classkernel_1_1KernelConsts.html#ad7b379f4a12f43106e11f574bb1c91e8',1,'kernel::KernelConsts']]],
+  ['dummy_5funit',['dummy_unit',['../db/d4b/classkernel_1_1KernelConsts.html#a36b1fdf04a7ff4a41a3abc907ea31e7e',1,'kernel::KernelConsts']]],
+  ['dynamicsmatrixdescriptor',['DynamicsMatrixDescriptor',['../d5/d1b/classkernel_1_1dynamics_1_1DynamicsMatrixDescriptor.html#abcb42dc6d3ea594e5e6738c5db0ce55d',1,'kernel::dynamics::DynamicsMatrixDescriptor']]]
+];

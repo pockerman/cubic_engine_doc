@@ -1,0 +1,6 @@
+<map id="kernel::SimpleTaskBase&lt; ResultType &gt;" name="kernel::SimpleTaskBase&lt; ResultType &gt;">
+<area shape="rect" id="node2" href="$db/d0f/classkernel_1_1TaskBase.html" title="Base class for task execution. A task cannot be copied not copy assigned. It can only be moved..." alt="" coords="13,193,143,219"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="133,96,215,123"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="109,5,239,47"/>
+<area shape="rect" id="node6" href="$de/d64/classkernel_1_1ResultHolder.html" title="kernel::ResultHolder\l\&lt; result_value_t \&gt;" alt="" coords="168,185,316,227"/>
+</map>

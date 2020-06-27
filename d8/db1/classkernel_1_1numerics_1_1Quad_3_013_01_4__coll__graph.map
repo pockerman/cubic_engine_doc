@@ -1,0 +1,12 @@
+<map id="kernel::numerics::Quad&lt; 3 &gt;" name="kernel::numerics::Quad&lt; 3 &gt;">
+<area shape="rect" id="node2" href="$d1/d16/classkernel_1_1numerics_1_1Face.html" title="kernel::numerics::Face" alt="" coords="2079,136,2239,163"/>
+<area shape="rect" id="node3" href="$da/d4f/classkernel_1_1numerics_1_1FaceElement_3_013_00_012_01_4.html" title="kernel::numerics::FaceElement\l\&lt; 3, 2 \&gt;" alt="" coords="1819,129,2029,170"/>
+<area shape="rect" id="node4" href="$d8/d54/classkernel_1_1numerics_1_1Element.html" title="kernel::numerics::Element\&lt; 3 \&gt;" alt="" coords="1491,136,1703,163"/>
+<area shape="rect" id="node5" href="$df/db9/classkernel_1_1numerics_1_1MeshEntity.html" title="Helper class that wraps non template dependent parameters and common to every mesh entity..." alt="" coords="537,91,736,117"/>
+<area shape="rect" id="node11" href="$d8/d54/classkernel_1_1numerics_1_1Element.html" title="Wraps the notion of an element. " alt="" coords="885,129,1065,170"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="305,20,388,47"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="45,13,176,54"/>
+<area shape="rect" id="node9" href="$d0/def/classkernel_1_1numerics_1_1DoFObject.html" title="A DofObject holds DoF objects. " alt="" coords="539,255,734,281"/>
+<area shape="rect" id="node13" href="$d4/d14/classkernel_1_1numerics_1_1Node.html" title="Wraps the notion of a node. A node is simply a point in dim&#45;space that can hold dofs. " alt="" coords="265,153,428,194"/>
+<area shape="rect" id="node14" href="$d2/dda/classkernel_1_1numerics_1_1FaceElement.html" title="kernel::numerics::FaceElement\l\&lt; dim, 0 \&gt;" alt="" coords="5,153,216,194"/>
+</map>

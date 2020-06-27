@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/dc6/classkernel_1_1ObserverBase.html" title="Base class for implementing the observer pattern. " alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node2" href="$db/d2b/classkernel_1_1ThreadedObserverBase.html" title="kernel::ThreadedObserver\lBase\&lt; MutexTp, ResourceTp \&gt;" alt="" coords="211,5,428,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="kernel::dynamics::DiffDriveDynamics" name="kernel::dynamics::DiffDriveDynamics">
+<area shape="rect" id="node2" href="$d1/d0b/classkernel_1_1dynamics_1_1MotionModelBase.html" title="kernel::dynamics::Motion\lModelBase\&lt; SysState\&lt; 3\l \&gt;, DynamicsMatrixDescriptor,\l real_t, real_t, std::array\l\&lt; real_t, 2 \&gt; \&gt;" alt="" coords="1008,27,1217,112"/>
+<area shape="rect" id="node4" href="$df/da3/classkernel_1_1dynamics_1_1SysState.html" title="kernel::dynamics::SysState\&lt; 3 \&gt;" alt="" coords="612,56,832,83"/>
+<area shape="rect" id="node5" href="$d5/d1b/classkernel_1_1dynamics_1_1DynamicsMatrixDescriptor.html" title="kernel::dynamics::Dynamics\lMatrixDescriptor" alt="" coords="625,107,819,149"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="185,115,268,141"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="5,107,136,149"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dd/d43/classkernel_1_1IterativeAlgorithmController.html" title="Controller for iterative algorithms. " alt="" coords="5,82,183,123"/>
+<area shape="rect" id="node2" href="$d4/d61/structcengine_1_1GDControl.html" title="cengine::GDControl" alt="" coords="253,5,398,32"/>
+<area shape="rect" id="node3" href="$d6/d3f/structcengine_1_1KMeansControl.html" title="Small struct that wraps configuration parameters for k&#45;means algorithm. " alt="" coords="237,56,413,83"/>
+<area shape="rect" id="node4" href="$d7/d79/classkernel_1_1maths_1_1solvers_1_1BisectionSolver.html" title="Simple implementation of the Bisection method for solving non linear equations. " alt="" coords="231,107,420,163"/>
+<area shape="rect" id="node5" href="$d7/dd6/classkernel_1_1maths_1_1solvers_1_1NewtonSolver.html" title="Simple implementation of the Newton method for solving non linear equations. " alt="" coords="235,187,415,243"/>
+</map>

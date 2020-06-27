@@ -1,0 +1,5 @@
+<map id="kernel::AlgInfo" name="kernel::AlgInfo">
+<area shape="rect" id="node2" href="$d9/db9/structcengine_1_1GDInfo.html" title="cengine::GDInfo" alt="" coords="5,87,128,114"/>
+<area shape="rect" id="node3" href="$d1/dea/structcengine_1_1KMeansInfo.html" title="Small struct that wraps information about K&#45;means to be passed to the client code upon completion of ..." alt="" coords="152,87,307,114"/>
+<area shape="rect" id="node4" href="$d0/d6e/structkernel_1_1numerics_1_1KrylovSolverResult.html" title="kernel::numerics::Krylov\lSolverResult" alt="" coords="331,80,499,121"/>
+</map>

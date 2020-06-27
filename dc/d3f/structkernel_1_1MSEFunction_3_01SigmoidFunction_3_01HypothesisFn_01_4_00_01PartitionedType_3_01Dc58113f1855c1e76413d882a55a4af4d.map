@@ -1,0 +1,12 @@
+<map id="kernel::MSEFunction&lt; SigmoidFunction&lt; HypothesisFn &gt;, PartitionedType&lt; DataSetType &gt;, PartitionedType&lt; LabelsType &gt;, RegularizerFn &gt;::task_gradient_value_description" name="kernel::MSEFunction&lt; SigmoidFunction&lt; HypothesisFn &gt;, PartitionedType&lt; DataSetType &gt;, PartitionedType&lt; LabelsType &gt;, RegularizerFn &gt;::task_gradient_value_description">
+<area shape="rect" id="node2" href="$d5/d1c/structkernel_1_1detail_1_1task__description__base.html" title="kernel::detail::task\l_description_base\&lt; SigmoidFunction\l\&lt; HypothesisFn \&gt;, DataSetType,\l LabelsType, DynVec\&lt; real_t \&gt; \&gt;" alt="" coords="983,125,1235,195"/>
+<area shape="rect" id="node3" href="$db/d61/classkernel_1_1SimpleTaskBase.html" title="kernel::SimpleTaskBase\l\&lt; DynVec\&lt; real_t \&gt; \&gt;" alt="" coords="669,74,841,115"/>
+<area shape="rect" id="node4" href="$db/d0f/classkernel_1_1TaskBase.html" title="Base class for task execution. A task cannot be copied not copy assigned. It can only be moved..." alt="" coords="414,27,545,53"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="195,56,278,83"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="5,49,136,90"/>
+<area shape="rect" id="node8" href="$de/d64/classkernel_1_1ResultHolder.html" title="kernel::ResultHolder\l\&lt; result_value_t \&gt;" alt="" coords="405,78,553,119"/>
+<area shape="rect" id="node9" href="$d0/d42/classkernel_1_1PartitionedType.html" title="kernel::PartitionedType\l\&lt; DataSetType \&gt;" alt="" coords="672,139,839,181"/>
+<area shape="rect" id="node11" href="$dd/d54/classkernel_1_1SigmoidFunction.html" title="kernel::SigmoidFunction\l\&lt; HypothesisFn \&gt;" alt="" coords="670,205,841,246"/>
+<area shape="rect" id="node12" href="$de/df6/classkernel_1_1FunctionBase.html" title="kernel::FunctionBase\l\&lt; HypothesisFn ::output\l_t, HypothesisFn ::input_t \&gt;" alt="" coords="384,197,575,253"/>
+<area shape="rect" id="node13" href="$d0/d42/classkernel_1_1PartitionedType.html" title="kernel::PartitionedType\l\&lt; LabelsType \&gt;" alt="" coords="672,270,839,311"/>
+</map>

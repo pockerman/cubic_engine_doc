@@ -1,0 +1,5 @@
+<map id="kernel::MSEFunction&lt; SigmoidFunction&lt; HypothesisFn &gt;, PartitionedType&lt; DataSetType &gt;, PartitionedType&lt; LabelsType &gt;, RegularizerFn &gt;::task_value_description" name="kernel::MSEFunction&lt; SigmoidFunction&lt; HypothesisFn &gt;, PartitionedType&lt; DataSetType &gt;, PartitionedType&lt; LabelsType &gt;, RegularizerFn &gt;::task_value_description">
+<area shape="rect" id="node2" href="$d5/d1c/structkernel_1_1detail_1_1task__description__base.html" title="kernel::detail::task\l_description_base\&lt; SigmoidFunction\l\&lt; HypothesisFn \&gt;, DataSetType,\l LabelsType, real_t \&gt;" alt="" coords="555,20,807,91"/>
+<area shape="rect" id="node3" href="$db/d61/classkernel_1_1SimpleTaskBase.html" title="kernel::SimpleTaskBase\l\&lt; real_t \&gt;" alt="" coords="335,35,507,76"/>
+<area shape="rect" id="node4" href="$db/d0f/classkernel_1_1TaskBase.html" title="Base class for task execution. A task cannot be copied not copy assigned. It can only be moved..." alt="" coords="156,42,287,69"/>
+</map>

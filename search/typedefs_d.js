@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['smoother_5ftype',['smoother_type',['../db/d5e/classparml_1_1NaiveBayes.html#a661f71ada47441c22ade7df028c83927',1,'parml::NaiveBayes::smoother_type()'],['../d3/d82/classparml_1_1naive__bayes__base.html#a3e396ea65e6f5def26b45f74d94a7b02',1,'parml::naive_bayes_base::smoother_type()']]],
+  ['sparsematrix',['SparseMatrix',['../d7/da2/namespacekernel.html#a388b84f18438944ba9ab65ccbaaf59da',1,'kernel::SparseMatrix()'],['../d1/d3b/namespacecengine.html#ad460dafc20eac04ec387039113cd0580',1,'cengine::SparseMatrix()']]],
+  ['state_5ft',['state_t',['../dc/d80/classkernel_1_1dynamics_1_1DiffDriveDynamics.html#ad4c3de7cbf0ad5d320cb7bb2473b1cf2',1,'kernel::dynamics::DiffDriveDynamics::state_t()'],['../d7/d84/classcengine_1_1rl_1_1QTableLearning.html#af0a3f0efa2349aff19d269575094dec2',1,'cengine::rl::QTableLearning::state_t()'],['../d3/dfe/classcengine_1_1rl_1_1SyncValueFuncItr.html#ac509db7a12516007508e29682db1e4e2',1,'cengine::rl::SyncValueFuncItr::state_t()'],['../de/df2/classcengine_1_1rl_1_1SarsaTableLearning.html#aedefe0bcb775ddf84574758f559f6a0c',1,'cengine::rl::SarsaTableLearning::state_t()'],['../de/d33/classcengine_1_1rl_1_1worlds_1_1CliffWorld.html#a126209b9820d3251a19cff0fd1d403fe',1,'cengine::rl::worlds::CliffWorld::state_t()']]],
+  ['stop_5fcondition_5ft',['stop_condition_t',['../dc/d8d/classkernel_1_1StoppableTask.html#adecf16d0985e52d03c0657db29d4a6ef',1,'kernel::StoppableTask']]]
+];

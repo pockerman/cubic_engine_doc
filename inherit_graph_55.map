@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/df6/classkernel_1_1FunctionBase.html" title="kernel::FunctionBase\l\&lt; real_t, GeomPoint\&lt;\l dim \&gt; \&gt;" alt="" coords="5,31,160,87"/>
+<area shape="rect" id="node2" href="$da/d54/classkernel_1_1numerics_1_1BoundaryFunctionBase.html" title="kernel::numerics::Boundary\lFunctionBase\&lt; dim \&gt;" alt="" coords="208,5,397,47"/>
+<area shape="rect" id="node4" href="$d4/d49/classkernel_1_1numerics_1_1NumericScalarFunction.html" title="The general template. " alt="" coords="213,71,393,112"/>
+<area shape="rect" id="node3" href="$d0/dee/classkernel_1_1numerics_1_1ScalarDirichletBCFunc.html" title="kernel::numerics::Scalar\lDirichletBCFunc\&lt; dim \&gt;" alt="" coords="445,5,615,47"/>
+</map>

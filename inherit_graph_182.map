@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d8/dc6/classparml_1_1kmeans__base.html" title="Common functionality for K&#45;means algorithm. " alt="" coords="5,26,156,53"/>
+<area shape="rect" id="node2" href="$d3/dbf/classparml_1_1KMeans_3_01cput__c11_00_01DataInput_00_01CentroidType_01_4.html" title="parml::KMeans\&lt; cput\l_c11, DataInput, CentroidType \&gt;" alt="" coords="204,71,431,112"/>
+<area shape="rect" id="node3" href="$d7/d67/classparml_1_1KMeans_3_01serial_00_01DataInput_00_01CentroidType_01_4.html" title="parml::KMeans\&lt; serial,\l DataInput, CentroidType \&gt;" alt="" coords="221,5,413,47"/>
+<area shape="rect" id="node5" href="$d2/dec/classparml_1_1KMeans_3_01parframepp_1_1platform__type_1_1Type_1_1CPUT__C11_00_01DataPoint_01_4.html" title="Serial implementation of KMeans. " alt="" coords="217,137,417,193"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="kernel::SSEFunction&lt; HypothesisFn, PartitionedType&lt; DataSetType &gt;, PartitionedType&lt; LabelsType &gt;, RegularizerFn &gt;::task_gradient_value_description" name="kernel::SSEFunction&lt; HypothesisFn, PartitionedType&lt; DataSetType &gt;, PartitionedType&lt; LabelsType &gt;, RegularizerFn &gt;::task_gradient_value_description">
+<area shape="rect" id="node2" href="$d5/d1c/structkernel_1_1detail_1_1task__description__base.html" title="kernel::detail::task\l_description_base\&lt; Hypothesis\lFn, DataSetType, LabelsType,\l DynVec\&lt; real_t \&gt; \&gt;" alt="" coords="940,125,1159,195"/>
+<area shape="rect" id="node3" href="$db/d61/classkernel_1_1SimpleTaskBase.html" title="kernel::SimpleTaskBase\l\&lt; DynVec\&lt; real_t \&gt; \&gt;" alt="" coords="627,74,799,115"/>
+<area shape="rect" id="node4" href="$db/d0f/classkernel_1_1TaskBase.html" title="Base class for task execution. A task cannot be copied not copy assigned. It can only be moved..." alt="" coords="393,27,523,53"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="195,56,278,83"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="5,49,136,90"/>
+<area shape="rect" id="node8" href="$de/d64/classkernel_1_1ResultHolder.html" title="kernel::ResultHolder\l\&lt; result_value_t \&gt;" alt="" coords="384,78,532,119"/>
+<area shape="rect" id="node9" href="$d0/d42/classkernel_1_1PartitionedType.html" title="kernel::PartitionedType\l\&lt; DataSetType \&gt;" alt="" coords="629,139,796,181"/>
+<area shape="rect" id="node11" href="$d0/d42/classkernel_1_1PartitionedType.html" title="kernel::PartitionedType\l\&lt; LabelsType \&gt;" alt="" coords="629,205,796,246"/>
+</map>
